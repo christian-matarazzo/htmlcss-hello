@@ -11,4 +11,4 @@ Publicare per creare la repository ed effettuare il primo commit
 
 Effettuare il primo push (viene effettuato in automatico quando si publica la branch su github)
 
-Continuare  in modo incrementale fino allo sviluppo completo del layout proposto, committando regolarmente!S
+Continuare  in modo incrementale fino allo sviluppo completo del layout proposto, committando regolarmente!
